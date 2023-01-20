@@ -1,5 +1,5 @@
 # Object detection on CIFAR 10
-
+'''
 ## using risidual blocks
 
 this is a project from a deep learning course from 2021
